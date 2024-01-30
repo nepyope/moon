@@ -21,7 +21,7 @@ This project allows a Launchpad controller to play "Fly Me To The Moon" by mappi
 Connect your Launchpad to the computer (only works launchpad mini :P).
 Run the script:
 ```PYTHON
-python your-script-name.py
+python moon.py
 ```
 
 Enjoy playing! Press the buttons on your Launchpad to play segments of "Fly Me To The Moon.", by UR MUM $$
