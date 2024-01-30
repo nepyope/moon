@@ -1,0 +1,6 @@
+pydub
+scipy
+numpy
+simpleaudio
+launchpad_py
+pygame
