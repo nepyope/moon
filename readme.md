@@ -25,3 +25,6 @@ python moon.py
 ```
 
 Enjoy playing! Press the buttons on your Launchpad to play segments of "Fly Me To The Moon.", by UR MUM $$
+
+if you have any problems 
+sudo apt-get install --reinstall libasound2 libasound2-data libasound2-plugins

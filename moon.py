@@ -1,5 +1,5 @@
 from moonutils import *
-import launchpad_py as launchpad
+from launchpad_py import launchpad
 from pygame import time
 
 def button_mapping(button_code):
